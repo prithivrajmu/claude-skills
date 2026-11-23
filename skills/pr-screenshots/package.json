@@ -1,0 +1,8 @@
+{
+  "name": "pr-screenshots-skill-tools",
+  "private": true,
+  "description": "Local-only Playwright install for the pr-screenshots Claude Code skill. Not part of the app — see root package.json / Dockerfile, which never reference this folder.",
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}
